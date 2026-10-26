@@ -1,0 +1,29 @@
+{
+  "archive_sha256": "7a3a25d977e72f46307d52cab8a450ceb0f496533c6e9cabfd4bc3c4655c8849",
+  "csv_members": [
+    "202301-citibike-tripdata_1.csv",
+    "202301-citibike-tripdata_2.csv"
+  ],
+  "raw_trips": 1795412,
+  "cleaned_trips": 1790985,
+  "cleaning_retention": 0.9975342706855028,
+  "observed_station_ids": 1763,
+  "city_january_departures": 1790801,
+  "city_january_arrivals": 1790985,
+  "arrivals_after_january": 0,
+  "busiest_stations_evaluated": 20,
+  "forecast_summary": [
+    {
+      "model": "Hour-of-week mean",
+      "mae": 3.7806795634920634,
+      "rmse": 5.555608188163942
+    },
+    {
+      "model": "Previous-day naive",
+      "mae": 4.430357142857143,
+      "rmse": 6.574220552975741
+    }
+  ],
+  "python": "3.12.14",
+  "scope": "Full January 2023 archive, portable pandas flow aggregation and demand baselines. Not a rerun of a complete annual Databricks/VRP system; stages 2-5 in the supplied DBC files are empty."
+}

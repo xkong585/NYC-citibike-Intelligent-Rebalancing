@@ -1,0 +1,11 @@
+{
+  "source_repository": "https://github.com/sunaminusone/NYC-citibike-Intelligent-Rebalancing",
+  "source_commit": "c965b98a3dceab3f69ea59c3fcb5343880e9ff7f",
+  "changes": [
+    "Added portable local reproduction script and executed notebook",
+    "Regenerated charts from actual source data with a new color and typography system",
+    "Rewrote README around measured results and explicit scope",
+    "Preserved original files and original README in docs/ORIGINAL_README.md"
+  ],
+  "reproduction_run": "results/refreshed/run_summary.json"
+}

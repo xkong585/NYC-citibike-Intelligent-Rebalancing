@@ -1,0 +1,2 @@
+# Historical LFS pointers are text manifests under data/lfs_pointers/.
+# Download raw archives with scripts/download_data.py.
