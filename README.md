@@ -2,11 +2,6 @@
 
 Understand when riders need bikes, identify station-level trip-flow imbalances, and establish a reproducible forecasting baseline before designing rebalancing policies.
 
-## Project participation
-
-This was a collaborative group project, and I actively contributed to every stage of its development.
-
-Original team repository: [sunaminusone/NYC-citibike-Intelligent-Rebalancing](https://github.com/sunaminusone/NYC-citibike-Intelligent-Rebalancing). Original repository maintainer and project lead: Meixuan Li. This edition preserves the team's Databricks exports and adds a local workflow, measured forecast baselines, and redesigned figures.
 
 ## Why this problem matters
 
